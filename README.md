@@ -1,2 +1,3 @@
 # turing_robot
-for learn , plz miss it
+命令行   
+$ node bin/chat.js
